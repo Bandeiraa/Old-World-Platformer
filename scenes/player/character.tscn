@@ -1,6 +1,6 @@
 [gd_scene load_steps=18 format=2]
 
-[ext_resource path="res://assets/characters/egg_shell/egg_shell_type_1.png" type="Texture" id=1]
+[ext_resource path="res://assets/characters/egg_shell/type_1.png" type="Texture" id=1]
 [ext_resource path="res://scripts/player/character.gd" type="Script" id=2]
 [ext_resource path="res://scripts/player/stats.gd" type="Script" id=3]
 
