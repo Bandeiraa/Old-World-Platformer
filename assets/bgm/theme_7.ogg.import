@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/theme_7.ogg-9af732484736e49e038752900c9f0a51.oggstr"
+
+[deps]
+
+source_file="res://assets/bgm/theme_7.ogg"
+dest_files=[ "res://.import/theme_7.ogg-9af732484736e49e038752900c9f0a51.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
